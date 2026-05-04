@@ -1,0 +1,4 @@
+1. python feature_extraction.py
+2. python svm_model.py
+3. python predict_test.py
+4. python realtime_predict.py
